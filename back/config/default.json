@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://admin:Keah1438@cluster0.cg4o5.mongodb.net/foods?retryWrites=true&w=majority"
+}
